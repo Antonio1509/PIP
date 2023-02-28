@@ -1,0 +1,6 @@
+Red Bull Racing, Max Verstappen, 01, 2022
+Mercedes AMG, Lewis Hamilton, 44, 2022
+Scuderia Ferrari, Charles Leclerc, 16, 2022
+Alpine, Fernando Alonso, 34, 2022
+Mclaren, Daniel Ricciardo, 03, 2022
+Haas, Kevin Magnussen, 32, 2022

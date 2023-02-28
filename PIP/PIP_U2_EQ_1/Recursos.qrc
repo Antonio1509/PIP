@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="AutosF1">
+    <file>ferrari.jpg</file>
+    <file>haas.jpg</file>
+    <file>mclaren.jpg</file>
+    <file>mercedes.jpg</file>
+    <file>redbull.png</file>
+    <file>williams.jpg</file>
+    <file>alfa romeo.jpg</file>
+    <file>alphatauri.jpg</file>
+    <file>alpine.jpg</file>
+    <file>aston martin.jpg</file>
+  </qresource>
+</RCC>
